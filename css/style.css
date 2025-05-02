@@ -116,3 +116,29 @@
   border-radius: 5px;
   box-shadow: 3px 6px 10px 6px #0000005c;
 }
+
+/*-----------------------faixa-redes-sociais-----------------------*/
+.faixa-redes-sociais {
+  padding: 120px 80px;
+  background-color: #3c184e;
+  text-align: center;
+  color: #ffffff;
+}
+
+.faixa-redes-sociais p {
+  max-width: 800px;
+  margin: 0px auto 50px;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+}
+
+.faixa-redes-sociais span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.faixa-redes-sociais img {
+  width: 50px;
+  margin: 0px 20px;
+}

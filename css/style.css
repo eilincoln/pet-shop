@@ -37,3 +37,36 @@
   text-align: center;
   margin: 0px;
 }
+
+.secao-banner-container {
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0px;
+  background-color: #ffffffc4;
+  box-shadow: 0px 8px 32px 0px #1f26875e;
+}
+
+.secao-banner-container h1 {
+  font-size: 50px;
+  color: #3c184e;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+.secao-banner-container a {
+  display: block;
+  width: 200px;
+  padding: 10px 20px;
+  margin: 0px auto;
+  border-radius: 10px;
+  background-color: #3c184e;
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.secao-banner-container a img {
+  width: 20px;
+}

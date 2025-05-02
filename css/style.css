@@ -1,3 +1,5 @@
+/*-----------------------reset-----------------------*/
+
 * {
   margin: 0;
   padding: 0;
@@ -5,6 +7,8 @@
   font-family: sans-serif;
   text-decoration: none;
 }
+
+/*-----------------------secao-banner-----------------------*/
 
 .secao-banner {
   width: 100%;
@@ -69,4 +73,46 @@
 
 .secao-banner-container a img {
   width: 20px;
+}
+
+/*-----------------------secao-servicos-----------------------*/
+
+.secao-servicos {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.secao-servicos h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0px 0px 45px 0px;
+}
+
+.secao-servicos .lista {
+  max-width: 800px;
+  margin: 0px auto 50px;
+  color: #3c184e;
+}
+
+.secao-servicos .lista li {
+  list-style: square;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.secao-servicos .lista li span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.mini-galeria {
+  max-width: 800px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+.mini-galeria img {
+  border-radius: 5px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
 }

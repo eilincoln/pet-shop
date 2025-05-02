@@ -142,3 +142,26 @@
   width: 50px;
   margin: 0px 20px;
 }
+
+/*-----------------------SECAO-MARCA-----------------------*/
+
+.secao-marcas {
+  padding: 120px 80px;
+}
+
+.secao-marcas h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.secao-marcas-galeria {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.secao-marcas-galeria img {
+  width: 148px;
+  margin: 0px 15px;
+}

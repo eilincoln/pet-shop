@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.secao-banner {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../img/banner-topo.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 120px 80px;
+}
+
+.secao-banner-logo {
+  max-width: 250px;
+  color: #3c184e;
+}
+
+.secao-banner-logo img {
+  display: inline;
+  width: 30px;
+  margin-right: 5px;
+}
+
+.secao-banner-logo-p1 {
+  display: inline;
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+
+.secao-banner-logo-p2 {
+  font-size: 14px;
+  text-align: center;
+  margin: 0px;
+}

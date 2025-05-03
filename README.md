@@ -15,7 +15,7 @@ A proposta deste projeto é desenvolver um site elegante para uma pet shop fict�
 
 ## 🔍 Preview do Projeto
 
-![Imagem do Projeto](./img/projeto_completo.png))
+![Imagem do Projeto](./img/projeto_completo.png)
 
 ---
 

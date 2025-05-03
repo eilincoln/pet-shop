@@ -192,3 +192,15 @@
   width: 800px;
   height: 450px;
 }
+
+.secao-rodape {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+  background-color: #3c184e;
+}
+
+.secao-rodape a {
+  color: #ffffff;
+}
